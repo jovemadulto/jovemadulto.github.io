@@ -1,15 +1,24 @@
 # Sobre golpes no Whatsapp
-Não sei na roda de conhecidos de vocês, mas tenho a sensação de que há semanas não passo sem que fique sabendo de alguém que foi vítima de golpes no Whatsapp, seja quando tem seu nome usado para que fraudadores obtenham sucesso, seja enviando, de fato, o dinheiro para o fraudador.
+Não sei na roda de conhecidos de vocês, mas tenho a sensação de que há semanas não passo sem que fique sabendo de alguém que foi vítima de golpes no WhatsApp, seja quando tem seu nome usado para que fraudadores obtenham sucesso, seja enviando, de fato, o dinheiro para o fraudador.
 
-Na data em que escrevo este post duas formas de praticar a fraude se destacam: Quando o sujeito consegue posse do número da vítima e se passa por ela (tecnicamente mais complicado), e quando o fraudador simplesmente usa dados disponíveis e públicos para cometer o crime. Cada maneira tem suas peculiaridades, com facilidades, dificuldades e maneiras de se proteger.
+Na data em que escrevo este post duas formas de praticar a fraude se destacam:
+
+1. Quando o sujeito consegue posse do número da vítima e se passa por ela (tecnicamente mais complicado), e
+2. quando o fraudador simplesmente usa dados disponíveis e públicos para cometer o crime.
+
+Cada método tem suas peculiaridades, com facilidades, dificuldades e maneiras de se proteger distintas.
 
 ## Quando você tem seu número furtado.
 
-A fraude mais clássica deste gênero é quando você é supreendido por uma mensagem de um terceiro, muitas vezes se passando por uma empresa ou serviço que te diz enviar um código para confirmar sua identidade, mas na verdade se trata do código de confirmação do Whatsapp da vítima, que a pessoa cometendo a fraude está tentando ativar em seu próprio celular.
+A fraude mais clássica deste gênero é quando você é supreendido por uma mensagem de um terceiro, muitas vezes se passando por uma empresa ou serviço que te diz enviar um código para confirmar sua identidade.
 
-Muitas vezes a defesa para esta técnica se resume ao conselho de "ative a proteção de múltiplos fatores". Além de ativar esta opção podemos fazer ainda mais e aumentar a dificuldade do jogo.
+Na verdade se trata do código de confirmação do WhatsApp da vítima, e a a pessoa que comete a fraude está tentando ativar o serviço em seu próprio celular.
 
-Ative no Whatsapp a função de "Mostrar notificações de segurança" através do caminho: Configurações $\rightarrow$ Segurança $\rightarrow$ Mostrar notificações de segurança.
+Muitas vezes a defesa para esta técnica se resume ao conselho de "ative a proteção de múltiplos fatores". Isso pode ajudar a evitar o problema, mas convenhamos: Se a vítima foi convencida a passar o primeiro código, é relativamente fácil também convencê-la a passar o próximo.
+
+Portanto, **além** de ativar a 2FA (Autenticação de 2 Fatores ) vamos ir além!
+
+Ative no WhatsApp a função de "Mostrar notificações de segurança" através do caminho: Configurações $\rightarrow$ Segurança $\rightarrow$ Mostrar notificações de segurança.
 
 Mais detalhes podem ser encontrados aqui: https://faq.whatsapp.com/general/security-and-privacy/security-code-change-notification?lg=pt&lc=BR&eea=0
 
@@ -25,9 +34,9 @@ Com essa opção ativada, você é notificado sempre que uma pessoa com quem voc
 Então já sabe: se aparecer a nota de que "o código do número XX 9XXXX-XXXX mudou" e ele começar a te pedir dinheiro, desconfie (mais do que o normal).
 
 ## Quando você tem sua imagem roubada.
-Nesta modalidade não adianta ativar as configurações acima (faça-o mesmo assim, por favor). A pessoa do outro lado te aborda com um número totalmente novo, mas consegue te convencer porque copia as imagens de perfil e status da pessoa.
+Nesta modalidade não adianta ativar as configurações acima, como ativar as notificações de segurança e o 2FA (faça-os mesmo assim, por favor!). A pessoa do outro lado aborda um familiar ou amigo com um número totalmente novo, mas consegue convencê-los porque copia as imagens de perfil e status da pessoa.
 
-Neste caso devemos diminuir as chances de fazer com que a pessoa consiga nossos dados, em primeiro lugar. É só seguir os passos abaixo para que o seu avatar e demais informações não fiquem públicos.
+O que devemos fazer neste momento é diminuir as chances de fazer com que a pessoa consiga nossos dados, em primeiro lugar. É só seguir os passos abaixo para que o seu avatar e demais informações não fiquem públicos.
 
 ![Como ativar as noticações de segurança no Whatsapp. Entre nas Configurações do Aplicativo, escolha a opção Conta, em seguida Privacidade e restrinja as opções de "Visto por último", "Foto do perfil", "Recado" e "Status".](whastapp-2.png)
 
