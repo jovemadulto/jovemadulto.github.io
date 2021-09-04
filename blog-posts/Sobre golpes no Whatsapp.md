@@ -13,14 +13,14 @@ Ative no Whatsapp a função de "Mostrar notificações de segurança" através 
 
 Mais detalhes podem ser encontrados aqui: https://faq.whatsapp.com/general/security-and-privacy/security-code-change-notification?lg=pt&lc=BR&eea=0
 
-!(whatsapp-1.png)
+![[whatsapp-1.png]]
 
 Explico:
 Quando você ativa seu Whatsapp em um dispositivo, é trocado uma informação secreta entre ele e todos os outros com que você mantém contato. Isso inclui grupos, até. É causa/consequência da encriptação Ponta-a-Ponta utilizada.
 
 Com essa opção ativada, você é notificado sempre que uma pessoa com quem você conversa "entra" no Whatsapp por um celular novo. 
 
-!(whatsapp-3.png)
+![[whatsapp-3.png]]
 
 Então já sabe: se aparecer a nota de que "o código do número XX 9XXXX-XXXX mudou" e ele começar a te pedir dinheiro, desconfie (mais do que o normal).
 
@@ -29,7 +29,7 @@ Nesta modalidade não adianta ativar as configurações acima (faça-o mesmo ass
 
 Neste caso devemos diminuir as chances de fazer com que a pessoa consiga nossos dados, em primeiro lugar. É só seguir os passos abaixo para que o seu avatar e demais informações não fiquem públicos.
 
-!(whastapp-2.png)
+![[whastapp-2.png]]
 
 Além disso, vale destacar o perigo de estar em grupos com pessoas desconhecidas (sim, aquele que você pega as figurinhas também conta) ou compartilhar seu número de telefone com qualquer um.
 
