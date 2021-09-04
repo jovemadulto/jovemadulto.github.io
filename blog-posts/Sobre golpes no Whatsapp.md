@@ -36,3 +36,6 @@ Além disso, vale destacar o perigo de estar em grupos com pessoas desconhecidas
 Lembre-se de que para ser vítima do primeiro golpe basta que tenham o seu número. Para ser vítima do segundo, basta que saibam demais sobre você.
 
 Segurança não é sobre tornar a prática do crime impossível, mas dificultá-la ao máximo. Considere os passos deste post e compartilhe para que seja criada uma rede de segurança ao redor de você e de seus conhecidos.
+
+
+Escrito por [@o_jovemadulto](www.twitter.com/o_jovemadulto) em 04-09-2021.
